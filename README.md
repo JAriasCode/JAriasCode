@@ -9,7 +9,7 @@ Mobile and full-stack engineer with 7+ years of experience. I specialize in Flut
 **Prep Baseball** (via Fullstack Labs, Remote US)
 Flutter contractor on the PB App, a consumer platform replacing prepbaseball.com. The app serves 80,000+ annual tournament players and 42,000+ showcase players across the US.
 
-**NuMbi** (Founder, [soynumbi.com](https://soynumbi.com))
+**NuMbi** (Dev Lead, Founder)
 A freemium nutrition app I built and run solo for the Costa Rican market. Includes a food database of 12,800+ items, recipes, a stories feed, subscriptions with payment integration, and a full admin panel.
 
 **Vivco** (Mobile Lead, co-founder)
